@@ -1,5 +1,5 @@
-# Mini-SQL-Engine
-Basic SQL Engine implemented using python
+# SQL-Engine
+SQL Engine implemented using python
 
 Written in Python 3
 [Python 3.5.2]
