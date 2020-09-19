@@ -10,12 +10,10 @@ Written in Python 3
 If a file is *File1.csv* , the table name would be *File1* 
 <br>There will be no tab separation or space separation, so you are not required to handle it but you have to make sure to take care of both csv file type cases: the one where values are in double quotes and the one where values are without quotes. 
 2. The file named ```metadata.txt``` has the following structure for each table: 
-<begin_table> 
-<table_name> 
-<attribute1> 
-.... 
-<attributeN> 
-<end_table> 
+<br><begin_table> 
+<br><table_name> 
+<br>< attributes, one each line> 
+<br><end_table> 
 
 ## How to query a table using this engine
 
